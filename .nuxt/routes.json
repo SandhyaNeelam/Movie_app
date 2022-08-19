@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movies-movieid",
+    "path": "/movies/:movieid?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\Nuxt-MovieApp\\\\pages\\\\movies\\\\_movieid.vue",
+    "chunkName": "pages/movies/_movieid",
+    "_name": "_3690bc40"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\Nuxt-MovieApp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_696a10f1"
+  }
+]
